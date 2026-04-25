@@ -4,7 +4,7 @@
 
 ### TypeScript:
 1. Download the project and unzip the files
-2. Open the a terminal and cd to the root of the unzipped project, `Hl7TestApp-RyanGabrin`
+2. Open the a terminal and cd to the root of the unzipped project, `hl7-parser-main`
 3. Run `cd HL7TestApp-TypeScript`
 4. Run `npm install`
 5. Run `npx ts-node Program.ts ..\TestData\`
